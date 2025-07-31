@@ -1,0 +1,40 @@
+ Titanic Dataset – Exploratory Data Analysis (EDA) Project
+📌 Description:
+This project explores the Titanic dataset using Exploratory Data Analysis (EDA) techniques to uncover patterns related to passenger demographics and survival outcomes.
+
+Completed as part of a data science internship task, it demonstrates skills in data cleaning, handling missing values, and data visualization using Python.
+
+🔧 Technologies Used:
+Python
+
+Pandas, NumPy
+
+Matplotlib, Seaborn
+
+Jupyter Notebook
+
+🔍 Tasks Performed:
+Loaded and merged multiple Titanic dataset files
+
+Cleaned missing values and removed unnecessary columns
+
+Encoded categorical features (e.g., Sex, Embarked)
+
+Visualized survival distribution, age trends, and correlations
+
+Created heatmaps, histograms, and boxplots to analyze data
+
+🎯 Objective:
+To practice and apply data cleaning, preprocessing, and visualization techniques using a real-world dataset, and draw insights from it without applying machine learning.
+
+Let me know if you want this formatted as a full README.md file to copy directly to GitHub.
+
+
+
+
+
+
+
+
+
+Ask ChatGPT
